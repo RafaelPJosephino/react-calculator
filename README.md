@@ -13,11 +13,11 @@ A simple and user-friendly calculator built with React. This project demonstrate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/RafaelPJosephino/react-calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd simple-calculator
+   cd react-calculator
    ```
 3. Install the dependencies:
    ```bash
